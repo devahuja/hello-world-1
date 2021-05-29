@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Simple DevOps Project in DOCKER !!   </h1>
-<h2>.....AF.....Demo... </h2>
-<h2> Glad to see you here </h2>
+<h1> Hello, Welcome to DevOps Training   </h1>
+<h2> Module 3: Deploy war file </h2>
+<h2> Successfully Completed </h2>
